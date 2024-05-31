@@ -33,10 +33,10 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/bash.png" alt="bash" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/git.png" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/mathworks.jpeg" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/mysql.png" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/nodejs.png" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/mysql.png" alt="mysql" width="80" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/nodejs.png" alt="nodejs" width="60" height="40"/> </a> 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/pytorch.png" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/scikitlearn.png" alt="scikit_learn" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/scikitlearn.png" alt="scikit_learn" width="60" height="40"/> </a> 
 <a href="https://www.puppet.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/puppet.png" alt="puppet" width="40" height="40"/> </a> 
 
 </p>
