@@ -2,16 +2,20 @@
 <h3 align="center">A web developer in the making, with a side of curiosity in machine learning!</h3>
 <br>
 
-- 🔭 I’m currently working on **DSA and Full stack web development**
-  
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
-  
-- 📫 Reach me at **manasvinigp@gmail.com**
+<div>
+  <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/woman-working-new-.jpg" alt="coding gif" align="right" height="180" width="360"/>
+</div>
 
-## 🌐 Socials:
-<a href="https://linkedin.com/in/manasvinigp" target="blank"><img align="center" src="https://github.com/manasvinigp/manasvinigp/blob/main/images/linkedin.png" alt="manasvinigp" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manasvini_gp" target="blank"><img align="center" src="https://github.com/manasvinigp/manasvinigp/blob/main/images/leetcode.png" alt="manasvini_gp" height="30" width="40" /></a>
-</p>
+  - 🔭 I’m currently working on **DSA and Full stack web development**
+  
+  - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+  
+  - 📫 Reach me at **manasvinigp@gmail.com**
+
+  ## 🌐 Socials:
+  <a href="https://linkedin.com/in/manasvinigp" target="blank"><img align="center" src="https://github.com/manasvinigp/manasvinigp/blob/main/images/linkedin.png" alt="manasvinigp" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/manasvini_gp" target="blank"><img align="center" src="https://github.com/manasvinigp/manasvinigp/blob/main/images/leetcode.png" alt="manasvini_gp" height="30" width="40" /></a>
+
 
 # 💻 Tech Stack:
 
