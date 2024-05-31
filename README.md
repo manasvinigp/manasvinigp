@@ -1,9 +1,12 @@
-# 💫 About Me:
-<h1 align="center">Hello 👋! I'm Manasvini Padmasali</h1><h3 align="center">A web developer in the making, with a side of curiosity in machine learning!</h3>
-<br>- 🔭 I’m currently working on **DSA and Full stack web development**
-<br><br>- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
-<br><br>- 📫 Reach me at **manasvinigp@gmail.com**
+<h1 align="center">Hello 👋! I'm Manasvini Padmasali</h1>
+<h3 align="center">A web developer in the making, with a side of curiosity in machine learning!</h3>
 <br>
+
+- 🔭 I’m currently working on **DSA and Full stack web development**
+  
+- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+  
+- 📫 Reach me at **manasvinigp@gmail.com**
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/manasvinigp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manasvinigp" height="30" width="40" /></a>
