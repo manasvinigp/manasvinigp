@@ -23,13 +23,14 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/c.png" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/cpp.png" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/Python.png" alt="python" width="40" height="40"/> </a>
-
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/java.png" alt="java" width="40" height="40"/> </a> 
+  
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/html.png" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/css3.png" alt="css3" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/JavaScript.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/typescript.png" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/java.png" alt="java" width="40" height="40"/> </a> 
+
 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/arduino.png" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/linux.jpg" alt="linux" width="40" height="40"/> </a> 
@@ -41,12 +42,11 @@
 
 <a href="https://jinja.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/jinja.png" alt="jinja" width="40" height="40"/> </a> 
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/react.png" alt="reactjs" width="40" height="40"/> </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/reactnative.png" alt="reactnative" width="40" height="40"/> </a> 
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/reactnative.png" alt="reactnative" width="40" height="60"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/mysql.png" alt="mysql" width="80" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/mongodb.png" alt="mongodb" width="80" height="40"/> </a> 
 
 <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/flask.jpg" alt="flask" width="80" height="40"/> </a> 
-
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/nodejs.png" alt="nodejs" width="60" height="40"/> </a> 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/pytorch.png" alt="pytorch" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/scikitlearn.png" alt="scikit_learn" width="60" height="40"/> </a> 
