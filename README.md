@@ -20,7 +20,42 @@
 # 💻 Tech Stack:
 
 <p>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/c.png" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/cpp.png" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/Python.png" alt="python" width="40" height="40"/> </a>
+
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/java.png" alt="java" width="40" height="40"/> </a> 
+  
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/html.png" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/css3.png" alt="css3" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/JavaScript.png" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/typescript.png" alt="typescript" width="40" height="40"/> </a> 
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/java.png" alt="java" width="40" height="40"/> </a> 
+
+
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/arduino.png" alt="arduino" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/linux.jpg" alt="linux" width="40" height="40"/> </a> 
+@@ -41,28 +42,27 @@
+
+<a href="https://jinja.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/jinja.png" alt="jinja" width="40" height="40"/> </a> 
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/react.png" alt="reactjs" width="40" height="40"/> </a> 
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/reactnative.png" alt="reactnative" width="40" height="40"/> </a> 
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/reactnative.png" alt="reactnative" width="40" height="60"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/mysql.png" alt="mysql" width="80" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/mongodb.png" alt="mongodb" width="80" height="40"/> </a> 
+
+<a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/flask.jpg" alt="flask" width="80" height="40"/> </a> 
+
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/nodejs.png" alt="nodejs" width="60" height="40"/> </a> 
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/pytorch.png" alt="pytorch" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/scikitlearn.png" alt="scikit_learn" width="60" height="40"/> </a> 
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/opencv.png" alt="opencv" width="60" height="40"/> </a> 
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/docker.png" alt="docker" width="60" height="40"/> </a> 
+<a href="https://www.puppet.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/puppet.png" alt="puppet" width="40" height="40"/> </a> 
+
+</p>
 </p>
 
 # 📊 GitHub Stats:
