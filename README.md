@@ -5,12 +5,15 @@
   <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/woman-working-new-.jpg" alt="coding gif" align="right" height="240" width="300"/>
 </div>
 
-  - 🔭 I’m currently working on **DSA and Full stack web development**
+  - 🔭 I’m currently working on **DSA and Full stack Web Development**
   
-  - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+  - 🌱 I’m currently learning **DevOps, cloud technologies, and CI/CD practices**
+    
+  - 💡 I’m exploring the **Integration of AI in Web Applications** to develop impactful features
+    
+  - 🤝 I’m looking to collaborate on research or applications in *Computer vision and intelligent systems**
   
   - 📫 Reach me at **manasvinigp@gmail.com**
-
 
 
 
