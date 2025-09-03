@@ -3,7 +3,7 @@
 <br>
 
 <div>
-  <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/woman-working-new-.jpg" alt="coding gif" align="right" height="180" width="360"/>
+  <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/woman-working-new-.jpg" alt="coding gif" align="right" height="240" width="300"/>
 </div>
 
   - 🔭 I’m currently working on **DSA and Full stack web development**
