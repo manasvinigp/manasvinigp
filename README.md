@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋! I'm Manasvini Padmasali</h1>
 <h3 align="center">A web developer in the making, with a side of curiosity in machine learning!</h3>
 <br>
-
 <div>
   <img src="https://github.com/manasvinigp/manasvinigp/blob/main/images/woman-working-new-.jpg" alt="coding gif" align="right" height="240" width="300"/>
 </div>
@@ -11,6 +10,9 @@
   - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
   
   - 📫 Reach me at **manasvinigp@gmail.com**
+
+
+
 
   ## 🌐 Socials:
   <a href="https://linkedin.com/in/manasvinigp" target="blank"><img align="center" src="https://github.com/manasvinigp/manasvinigp/blob/main/images/linkedin.png" alt="manasvinigp" height="30" width="40" /></a>
