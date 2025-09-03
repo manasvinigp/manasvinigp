@@ -18,7 +18,7 @@
 
 
   ## 🌐 Socials:
-  <a href="https://linkedin.com/in/manasvinigp" target="blank"><img align="center" src="https://github.com/manasvinigp/manasvinigp/blob/main/images/LinkedIn.png" alt="manasvinigp" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/manasvinigp" target="blank"><img align="center" src="https://github.com/manasvinigp/manasvinigp/blob/main/images/linkedin.png" alt="manasvinigp" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/manasvini_gp" target="blank"><img align="center" src="https://github.com/manasvinigp/manasvinigp/blob/main/images/leetcode.png" alt="manasvini_gp" height="30" width="40" /></a>
 
 
