@@ -18,7 +18,7 @@
 
 
   ## 🌐 Socials:
-  <a href="https://linkedin.com/in/manasvinigp" target="blank"><img align="center" src="https://github.com/manasvinigp/manasvinigp/blob/main/images/linkedin.png" alt="manasvinigp" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/manasvinigp" target="blank"><img align="center" src="https://github.com/manasvinigp/manasvinigp/blob/main/images/LinkedIn.png" alt="manasvinigp" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/manasvini_gp" target="blank"><img align="center" src="https://github.com/manasvinigp/manasvinigp/blob/main/images/leetcode.png" alt="manasvini_gp" height="30" width="40" /></a>
 
 
@@ -41,7 +41,7 @@
 
 <a href="https://jinja.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="images/jinja.png" alt="jinja" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="images/flask.jpg" alt="flask" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="images/django.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="images/django.png" alt="django" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">  <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="numpy" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
